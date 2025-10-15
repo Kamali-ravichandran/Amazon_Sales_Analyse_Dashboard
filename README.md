@@ -21,11 +21,6 @@ This Power BI dashboard provides a detailed analysis of **Amazon sales data**, f
 
 ---
 
- 📸 Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
-
----
-
  🚀 How to Open
 1. Download the file **`Amazon_Sales_Analysis.pbix`** from this repository  
 2. Open it using **Microsoft Power BI Desktop**  
